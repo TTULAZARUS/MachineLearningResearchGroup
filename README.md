@@ -1,2 +1,2 @@
-# ML-seminarMaterials
-Materials for the seminar tied to the Lazarus Machine Learning Group
+# Lazarus Machine Learning Research Group
+Repo for the Lazarus Machine Learning Research Group
